@@ -10,7 +10,7 @@
   $faculty = $_GET['faculty'];
    echo 'форма отправлена';
  }
- 
+ //hhhh
   $connect = mysqli_connect('localhost', 'root', '', 'students');
    if($connect){
     echo 'база подключена';
